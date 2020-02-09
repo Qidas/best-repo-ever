@@ -1,4 +1,6 @@
 # best-repo-ever
 
-This is the best repo ever as you can tell...
-This is to test the new branch 1
+This are a hefty amount of different changes made to the best repo ever.
+Sometimes it scared me how good it is.
+This is being made on new branch 2.
+
